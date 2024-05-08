@@ -56,4 +56,5 @@ This project is a platform that brings together TCP students to write tech and a
   - Ensure proper error handling and use of meaningful error messages.
   - Regularly refactor code to keep it clean and optimized.
 
+[Exmample of blogs site (Meduim)](https://medium.com/)
 
