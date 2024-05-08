@@ -4,12 +4,6 @@
 This project is a platform that brings together TCP students to write tech and academic blogs. It serves as a hub for TCP alumni's creativity, allowing students to create, publish, update, and delete their blogs.
 
 ## Requirements:
-### Frontend Repository:
-- **Repository Name:** tcp-blog-frontend
-
-### Backend Repository:
-- **Repository Name:** tcp-blog-backend
-
 1. **Fullstack Project**: Develop both frontend and backend.
 2. **User Authentication**: TCP students can join by signing up/signing in.
 3. **Blog Creation**: Authenticated students can create, delete, and edit their own blogs.
