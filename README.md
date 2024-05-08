@@ -38,4 +38,22 @@ This project is a platform that brings together TCP students to write tech and a
    - Search for blogs by queries.
 10. **Category and Tag Filtering**:
     - Clicking on categories/tags displays relevant blogs.
+   
+
+## Important Notes:
+- **Project Structure**: 
+  - Follow a clear and organized folder structure for both frontend and backend.
+  - Separate concerns into distinct modules or components (e.g., models, controllers, views).
+  
+- **Conventional Naming**:
+  - Use meaningful names for variables, functions, files, and folders following standard conventions (e.g., camelCase for JavaScript functions, PascalCase for class names, snake_case for database tables).
+  - Maintain consistency in naming across the project to enhance readability and maintainability.
+
+- **Clean Code**:
+  - Write clear and concise code that is easy to understand and maintain.
+  - Follow coding best practices and principles (e.g., DRY - Don't Repeat Yourself, SOLID principles).
+  - Use proper indentation, comments, and documentation where necessary.
+  - Ensure proper error handling and use of meaningful error messages.
+  - Regularly refactor code to keep it clean and optimized.
+
 
